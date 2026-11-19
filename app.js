@@ -5,7 +5,7 @@
 /* ================= CONFIGURACIÓN ================= */
 const CONFIG = {
   API_URL: 'http://127.0.0.1:8080/api/events',
-  PUBLIC_API_URL: 'https://tigers-optics-arc-imagine.trycloudflare.com/api/events',
+  PUBLIC_API_URL: 'https://logs-entity-alberta-voices.trycloudflare.com/api/events',
   SOURCE: 'BANK_SIMULATION',
   DEFAULT_IP: '192.168.1.50',
   ATTACKER_IP: '203.0.113.45',
@@ -981,3 +981,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
+
