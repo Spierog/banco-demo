@@ -4,7 +4,7 @@
 
 /* ================= CONFIGURACIÓN ================= */
 const CONFIG = {
-  API_URL: 'http://127.0.0.1:8080/api/events',:/
+  API_URL: 'http://127.0.0.1:8080/api/events',
   PUBLIC_API_URL: 'https://extends-buf-nick-aim.trycloudflare.com/api/events',
   SOURCE: 'BANK_SIMULATION',
   DEFAULT_IP: '192.168.1.50',
